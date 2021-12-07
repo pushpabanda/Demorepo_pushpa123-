@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemopushpa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46b9a553-f73d-4498-9fae-f8a5e1c9db54",
+		"tenantId": "563f1b51-e7f7-4b67-8463-49f88c12876e"
+	}
+}
