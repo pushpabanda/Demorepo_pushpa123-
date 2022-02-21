@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITREPO",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35617c3d-d798-4390-89c6-b2077bba72e3",
+		"tenantId": "563f1b51-e7f7-4b67-8463-49f88c12876e"
+	}
+}
